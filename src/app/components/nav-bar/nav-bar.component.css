@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid #03a9f4;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}

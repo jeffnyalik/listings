@@ -1,0 +1,11 @@
+.form-search {
+    background-color: #ffc107;
+    padding: 6px;
+    border-radius: 0;
+    position: relative;
+    box-sizing: border-box;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    margin: 24px 0 16px;
+    color: #333;
+}
